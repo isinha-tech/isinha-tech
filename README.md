@@ -24,6 +24,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <img align="left" alt="Power BI" title="Power BI" width="30px"
 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 
+
+
 ### 🛠️ Ferramentas e Suporte Técnico
 
 - Formatação de computadores
