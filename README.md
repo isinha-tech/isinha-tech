@@ -13,29 +13,42 @@ Me chamo Isabella, tenho 19 anos. Sou estudante de Sistemas de Informação na U
 - Engenharia de Software
 
 ### 🤖 Linguagens e Tecnologias
-<img align="left" alt="HTML" title="HTML" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<img align="left" alt="CSS" title="CSS" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="Python" title="Python" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="MySQL" title="SQL" width="30px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="Power BI" title="Power BI" width="30px"
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Power BI" title="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+</p>
 
 ---
 
 ### 📊 Estatísticas GitHub
 
-<img
-  height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=isinha-tech&theme=tokyonight"
-/>
+<p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=isinha-tech&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinha-tech&layout=compact&theme=tokyonight"
+  />
+</p>
+
+<p>
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=isinha-tech&theme=tokyonight"
+  />
+</p>
+
+---
+
+### 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/isabella-jesus-goncalves
+- 📧 E-mail: isabella210821@gmail.com
