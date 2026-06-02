@@ -1,6 +1,6 @@
-# 🎧 Isabella Tech
+# 👩‍💻 Isabella Jesus Gonçalves
 
-**`estagiária`**
+**`Estudante de Sistemas de Informação | Estagiária de TI | Power BI`**
 
 Me chamo Isabella, tenho 19 anos. Sou estudante de Sistemas de Informação na UNIFAFIBE e estagiária de TI pelo programa Proati da SEDUC. Atuo com suporte e manutenção de computadores, enquanto desenvolvo conhecimentos em programação, banco de dados e análise de dados com Power BI. Apaixonada por tecnologia, estou sempre buscando aprender, evoluir e compartilhar minha jornada através das redes sociais.
 
@@ -26,12 +26,6 @@ Me chamo Isabella, tenho 19 anos. Sou estudante de Sistemas de Informação na U
 ---
 
 ### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isinha-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinha-tech&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=isinha-tech&theme=tokyonight" />
