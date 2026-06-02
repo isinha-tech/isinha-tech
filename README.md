@@ -33,10 +33,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=isinha-tech&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinha-tech&layout=compact&theme=tokyonight"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=isinha-tech&theme=tokyonight"
 />
