@@ -27,25 +27,15 @@ Me chamo Isabella, tenho 19 anos. Sou estudante de Sistemas de Informação na U
 
 ### 📊 Estatísticas GitHub
 
-<p>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=isinha-tech&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isinha-tech&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinha-tech&layout=compact&theme=tokyonight"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isinha-tech&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p>
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=isinha-tech&theme=tokyonight"
-  />
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=isinha-tech&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 Contato
